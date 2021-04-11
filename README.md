@@ -1,4 +1,4 @@
-#Trabalho apresentado a disciplina de Processamento Digital de Imagens
+# Trabalho apresentado a disciplina de Processamento Digital de Imagens
 
 O link para os vídeos gerados no exercício 2, encontra-se em: https://github.com/heduardabolini/videosPDI
 
